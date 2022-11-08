@@ -2,7 +2,7 @@
 
 export default {
     roomName: `🌕   HaxClimb v1.1 by jakjus`,
-    token: ``,
+    token: `thr1.AAAAAGNq0P28zIXq1w7UIA.0_c-JD7dffk`,
     // geo:
     // password: "example",
     // private: true,
